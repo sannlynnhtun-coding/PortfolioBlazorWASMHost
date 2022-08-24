@@ -24,7 +24,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-wm\/PyT01CAndytn\/B\/egrjENN3gkDMsMDaFon1TwCHA=",
       "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "System.IO.Pipelines.dll": "sha256-\/C5xhI+m3Aqrcjxy\/TauLyqv\/\/5l8WEW3rXFtVlNhy8=",
-      "PortfolioBlazorWASM.dll": "sha256-mtT0tbv0Au+RRNrNf\/JG33M9Oalk9XKO8uq8ReZjAY8=",
+      "PortfolioBlazorWASM.dll": "sha256-TVnnTOCr2dglEnmK\/VKjnJy+islY05U5701p37fkQuo=",
       "Microsoft.CSharp.dll": "sha256-KhjGHxbfumaymL4\/zppt+uLKNCPczRbYRzvAYzZKvfM=",
       "System.Buffers.dll": "sha256-8j\/d1uD8VduPLbeS+USAJ9Z\/kTKsZtrNguq4Henca9s=",
       "System.Collections.Concurrent.dll": "sha256-8qK9eLopwSk++oVqwGkF4LRTGDoXDbBIKGeolRTkCvA=",
@@ -60,7 +60,7 @@
       "System.Runtime.Numerics.dll": "sha256-qWXZ4Y7Ywuek3naib5rts7s8YhZtPjJlZupzGKehq24=",
       "System.Runtime.Serialization.Formatters.dll": "sha256-swViCXMezL4yZaMJn+vO2So7khuH6xO6FpmXiryY5oo=",
       "System.Runtime.Serialization.Primitives.dll": "sha256-K5NyAgKR1ydXur13xM7HPH74Dd\/Xad3Do7zlZuY9ffk=",
-      "System.Runtime.dll": "sha256-FHkyIuUihVxeq9Kf9nPhTt1e4DO70DcNpG2MVs4vEzs=",
+      "System.Runtime.dll": "sha256-0B+M8JsLcvo00Ds4AZiZ75Ucv5JVTDJ\/dgtqYLNLQ6I=",
       "System.Security.Cryptography.Algorithms.dll": "sha256-sBea2wvosFUnO\/sCStMwvoTJPjMLSQz1tnr0Rt6LzyI=",
       "System.Text.Encodings.Web.dll": "sha256-DSbtBgUS49MADVa3GwIXM0mi4ZZgURIyo\/LxiP6aZ8M=",
       "System.Text.Json.dll": "sha256-oRulDXaVlMYH\/0vDgWRIhivibD7uF7NJOQl4MeOcpLw=",
@@ -70,7 +70,7 @@
       "System.Threading.dll": "sha256-yJGwdi0v0sW\/EmCNjECP8l\/3+rHA8jqjfjRTSmZy34Q=",
       "System.dll": "sha256-\/X1GLT\/fztZwHSGwkc\/vYBFk1tHphk2yO9lmCxhgGzU=",
       "netstandard.dll": "sha256-hCE92FjZ7w3mXbeXz4UZey5dkRjUIgkhvhlbApaKa6g=",
-      "System.Private.CoreLib.dll": "sha256-pnp1trvr\/aemsmrMZv8SQzTP0HKKHC3sRxqjTkHmGes="
+      "System.Private.CoreLib.dll": "sha256-oCMC0wQaYALqW\/S\/nG9iOlsrgIJAsHuVqagtkxvYAJs="
     },
     "extensions": null,
     "lazyAssembly": null,

@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <base href="/" />
+    <base href="https://sannlynnhtun-coding.github.io/PortfolioBlazorWASMHost/" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="Name of your web site">
     <meta name="author" content="Marketify">
@@ -20,18 +20,36 @@
 <body class="material-template">
     <div id="app">Loading...</div>
 
-    <footer>
-        <div class="copyrights">© 2020 All rights reserved. Material template by LMPixels</div>
-    </footer>
-
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/init.js"></script>
+    
+    <script>
+        window.addScript = function (lst) {
+            lst.forEach(addScriptItem);
+
+            function addScriptItem(url) {
+                var _script = document.createElement('script');
+                _script.setAttribute('src', url);
+                document.head.appendChild(_script);
+            }
+        }
+
+        window.scrollIntoView = function (elementId) {
+            var elem = document.getElementById(elementId);
+            if (elem) {
+                elem.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                    inline: "nearest"
+                });
+                //window.location.hash = elementId;
+            }
+        }
+    </script>
 </body>
 
 </html>
